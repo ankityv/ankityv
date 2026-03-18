@@ -4,7 +4,7 @@
 
 [![Twitter: Ankit Yadav](https://img.shields.io/twitter/follow/Ankit?style=social)](https://twitter.com/n0jjk)
 [![Linkedin: Ankit Yadav](https://img.shields.io/badge/-Ankit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankityv/)](https://www.linkedin.com/in/ankityv/)
-[![GitHub Ankit](https://img.shields.io/github/followers/nukucode?label=follow&style=social)](https://github.com/ankityv)
+[![GitHub Ankit](https://img.shields.io/github/followers/ankityv?label=follow&style=social)](https://github.com/ankityv)
 
 ```javascript
 const thai = {
